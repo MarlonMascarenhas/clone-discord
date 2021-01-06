@@ -52,7 +52,7 @@ export const InputWrapper = styled.div`
 
 export const Input = styled.input`
     width: 100%;
-    height: 44px;
+    height: 43px;
 
     padding: 0 10px 0 57px;
 
